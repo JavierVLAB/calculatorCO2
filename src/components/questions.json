@@ -1,0 +1,38 @@
+{
+  "status": 200,
+  "data": {
+      "id": 0,
+      "data_type": 1,
+      "pretext": "Calculate my",
+      "postext": "as a CO₂ source",
+      "typeahead_query_url": "https://api.reforestum.com/v1/co2/shortcuts",
+      "final": false,
+      "next_step_id": 2,
+      "children": [
+          {
+              "name": "flight",
+              "value": 58
+          },
+          {
+              "name": "car travel",
+              "value": 44
+          },
+          {
+              "name": "other travel",
+              "value": 14
+          },
+          {
+              "name": "food",
+              "value": 18
+          },
+          {
+              "name": "specific amount of carbon",
+              "value": 13
+          },
+          {
+              "name": "blockchain mining",
+              "value": 66
+          }
+      ]
+  }
+}
